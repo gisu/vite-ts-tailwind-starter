@@ -33,7 +33,7 @@
     "@vitejs/plugin-vue": "^1.6.1",
     "eslint": "~7",
     "eslint-plugin-vue": "~7",
-    "vite": "^2.5.5",
+    "vite": "^3.0.6",
     "typescript": "^4.4.2",
     "@vueuse/core": "^6.2.1",
     "@vueuse/components": "^6.2.1"
